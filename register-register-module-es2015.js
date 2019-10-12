@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>新會員申請</ion-title>\n  </ion-toolbar>\n</ion-header>\n<ion-content>\n    <ion-item>\n        <ion-label position=\"floating\">服務使用者姓名* </ion-label>\n        <ion-input type=\"text\"></ion-input>\n      </ion-item>\n      \n\n</ion-content>\n"
+module.exports = "<ion-header>\n  <ion-toolbar>\n    <ion-title>新會員申請</ion-title>\n  </ion-toolbar>\n</ion-header>\n<ion-content>\n    <iframe id=\"reg\"class=\"frame\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeyvvK0fhdDRGiWTiUv65-bvGMP8IDnVMywRY4S5s5ZKoLIKA/viewform?embedded=true\"  frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">載入中…</iframe>\n    <!-- <ion-item>\n        <ion-label position=\"floating\">服務使用者姓名* </ion-label>\n        <ion-input type=\"text\"></ion-input>\n      </ion-item> -->\n      \n\n</ion-content>\n"
 
 /***/ }),
 
@@ -66,7 +66,7 @@ RegisterPageModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL3JlZ2lzdGVyL3JlZ2lzdGVyLnBhZ2Uuc2NzcyJ9 */"
+module.exports = ".frame {\n  position: relative;\n  height: 100%;\n  width: 100%;\n}\n\n.freebirdFormviewerViewFooterEmbeddedBackground {\n  visibility: hidden !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9sb2dnY2hlbmcvc3RhaXJjbGltYi9zdGFpcmNsaW1iL3NyYy9hcHAvcmVnaXN0ZXIvcmVnaXN0ZXIucGFnZS5zY3NzIiwic3JjL2FwcC9yZWdpc3Rlci9yZWdpc3Rlci5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxrQkFBQTtFQUNBLFlBQUE7RUFDQSxXQUFBO0FDQ0o7O0FEQ0E7RUFDSSw2QkFBQTtBQ0VKIiwiZmlsZSI6InNyYy9hcHAvcmVnaXN0ZXIvcmVnaXN0ZXIucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmZyYW1le1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICBoZWlnaHQ6IDEwMCU7XG4gICAgd2lkdGg6IDEwMCU7IFxufVxuLmZyZWViaXJkRm9ybXZpZXdlclZpZXdGb290ZXJFbWJlZGRlZEJhY2tncm91bmR7XG4gICAgdmlzaWJpbGl0eTogaGlkZGVuICAhaW1wb3J0YW50OyBcbn0iLCIuZnJhbWUge1xuICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gIGhlaWdodDogMTAwJTtcbiAgd2lkdGg6IDEwMCU7XG59XG5cbi5mcmVlYmlyZEZvcm12aWV3ZXJWaWV3Rm9vdGVyRW1iZWRkZWRCYWNrZ3JvdW5kIHtcbiAgdmlzaWJpbGl0eTogaGlkZGVuICFpbXBvcnRhbnQ7XG59Il19 */"
 
 /***/ }),
 

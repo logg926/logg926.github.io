@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!-- <ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-toolbar>\n</ion-header> -->\n\n<ion-content class=\"ion-padding-horizontal\" scrollY=\"false\">\n    <!-- <div class=\"vcenter\"> -->\n        <ion-img style=\"margin-top: 80px;\" src=\"/assets/images/logo1.png\"></ion-img>\n        <ion-button class=\"ion-padding\" shape=\"round\" expand=\"block\" href=\"/#/register\"> 新會員申請</ion-button>\n    \n        <ion-button class=\"ion-padding\"shape=\"round\" expand=\"block\" fill=\"outline\">登入</ion-button>\n    \n        <ion-img src=\"/assets/images/logo2.png\"></ion-img>\n    <!-- </div> -->\n        \n    \n</ion-content>\n"
+module.exports = "<!-- <ion-header>\n  <ion-toolbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-toolbar>\n</ion-header> -->\n\n<ion-content class=\"ion-padding-horizontal\" >\n    <!-- <div class=\"vcenter\"> -->\n        <ion-img style=\"margin-top: 80px;\" src=\"/assets/images/logo1.png\"></ion-img>\n        <ion-button class=\"ion-padding\" shape=\"round\" expand=\"block\" href=\"/#/register\"> 新會員申請</ion-button>\n    \n        <ion-button class=\"ion-padding\"shape=\"round\" expand=\"block\" fill=\"outline\">登入</ion-button>\n    \n        <ion-img src=\"/assets/images/logo2.png\"></ion-img>\n    <!-- </div> -->\n        \n    \n</ion-content>\n"
 
 /***/ }),
 
